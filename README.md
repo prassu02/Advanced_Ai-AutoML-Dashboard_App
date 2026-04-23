@@ -114,6 +114,8 @@ docker run -p 8501:8501 automl-app
 ```
 http://localhost:8501
 ```
+## Render Live Demo Link
+https://advanced-ai-automl-dashboard-app.onrender.com 
 
 ---
 
